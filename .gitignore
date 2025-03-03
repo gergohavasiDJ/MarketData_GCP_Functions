@@ -174,6 +174,7 @@ cython_debug/
 Data validation automation/Data_validation_google_sheet/config.json
 Data validation automation/RS_price_extraction/config.json
 Data validation automation/RS_price_extraction/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
+Data validation automation/RS_price_extraction/test.py
 S3_file_extractor/config.json
 Screener inventory/config.json
 Screener inventory/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
