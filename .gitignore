@@ -169,3 +169,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Keys and secrets
+Data validation automation/Data_validation_google_sheet/config.json
+Data validation automation/RS_price_extraction/config.json
+Data validation automation/RS_price_extraction/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
+Data validation automation/RS_price_extraction/test.py
+S3_file_extractor/config.json
+Screener inventory/config.json
+Screener inventory/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
+Screener_loader/config.json
+Screener_loader/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
+Utilities/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
