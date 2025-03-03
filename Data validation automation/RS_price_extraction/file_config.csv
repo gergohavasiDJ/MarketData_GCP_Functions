@@ -1,0 +1,4 @@
+﻿S3_file_name,Bigquery_table,Active
+wonW_WONDB_Secmaster,fact_S3_Secmaster_st,1
+wonW_WONDB_HSFINST3MRSRATING,fact_S3_HSFINST3MRSRATING_st,1
+wonW_WONDB_HSFINST6MRSRATING,fact_S3_HSFINST6MRSRATING_st,1

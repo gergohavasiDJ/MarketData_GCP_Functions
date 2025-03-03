@@ -1,0 +1,3 @@
+﻿Screen_name,environment,Dataset_id,Bigquery_table,Active,History
+DataStrategy.Teo.RS_Rating,STG,IBD_Automation,fact_Screener_RS_RANK_current_st,1,1
+DataStrategy.Teo.IBDCorpActions,PROD,IBD_Automation,fact_Screener_IBDCorpActions_current_st,1,0

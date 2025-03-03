@@ -1,0 +1,4 @@
+﻿Screen_name,environment,Dataset_id,Bigquery_table,Active,Iterative_load,Param_name,Param_values
+DataStrategy.Teo.ExchangeList,PROD,IBD_Automation,fact_Screener_ExchangeListStats_st,1,0,,
+DataStrategy.Teo.ExchangeList2,PROD,IBD_Automation,fact_Screener_ExchangeList_st,1,0,,
+DataStrategy.Teo.Inventory,PROD,IBD_Automation,fact_Screener_Inventory_st,1,1,ExchangeID,DataStrategy.Teo.ExchangeList2
