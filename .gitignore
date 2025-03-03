@@ -181,3 +181,4 @@ Screener inventory/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
 Screener_loader/config.json
 Screener_loader/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
 Utilities/dj-ds-marketdata-nonprod-5b2c59fc4bff.json
+JIRA_automation/jira_extract.py
